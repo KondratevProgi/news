@@ -2,7 +2,7 @@
 
 # Примеры работы
 <img src="https://github.com/KondratevProgi/news/blob/main/Рисунок1.png" width="370" height="450"/>
-<img src="https://github.com/KondratevProgi/news/blob/main/Рисунок1.png" width="370" height="450"/>
+<img src="https://github.com/KondratevProgi/news/blob/main/Рисунок2.png" width="370" height="450"/>
 
 # Иноформация о разработке 
 + Новости были взяты с данных СМИ:
